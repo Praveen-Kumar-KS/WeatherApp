@@ -1,0 +1,17 @@
+/* background */
+.container-fluid{
+    /* margin: 0%; */
+    background-image: url(./img/bg7.jpg);
+    background-size: cover;
+    /* margin-bottom: 0px; */
+    height:auto;
+/* max-height:200vh; */
+}
+/* header */
+.header {
+    background-image: url(./img/header.jpg);
+    background-size: cover;
+    background-position: relative;
+    color: rgb(12, 11, 6);
+    text-align: center;
+    padding: 5rem;
